@@ -1,2 +1,5 @@
 # hello-world
-starting up!
+
+Hi Humans! 
+
+Ben here. I like seeing this work!
